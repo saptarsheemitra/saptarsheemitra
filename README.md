@@ -39,6 +39,8 @@
 <br>
 📈 my github stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saptarsheemitra&show_icons=true&count_private=true&theme=tokyonight)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saptarsheemitra&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarsheemitra&show_icons=true&locale=en&layout=compact" alt="saptarsheemitra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarsheemitra&show_icons=true&locale=en" alt="saptarsheemitra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarsheemitra&" alt="saptarsheemitra" /></p>
